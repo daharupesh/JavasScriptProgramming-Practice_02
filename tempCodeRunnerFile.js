@@ -1,0 +1,2 @@
+
+function randomNumber(min, max) 
